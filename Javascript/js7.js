@@ -1,7 +1,6 @@
 // Question 7: Write a function named sumPostitveArray which accepts a parameter
 //If the array contains any negative numbers, return the sum of all positive numbers only.
 
-// Write function here
 function sumPositiveArray(array)
 {
     let sum=0;
