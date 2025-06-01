@@ -1,0 +1,7 @@
+// Question 9: Write an arrow function that accepts two numbers and returns their product. 
+// Use an arrow function to define it.
+
+
+const multiply = (x,y) => x * y
+console.log(multiply(4, 5)); 
+console.log(multiply(2, 3)); 
